@@ -1,2 +1,2 @@
-# Script
-Script Tong Hop Cua GoS
+# Check Key
+By KA
